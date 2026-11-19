@@ -18,4 +18,4 @@ and 24, a protected main branch, Dependabot, Issues with a project board, and a 
 
 ## Contact
 
-[LinkedIn](www.linkedin.com/in/dlttm)
+[LinkedIn](https://www.linkedin.com/in/dlttm)
